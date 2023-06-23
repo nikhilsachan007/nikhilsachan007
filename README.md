@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/nikhilsachan17" target="blank"><img src="https://img.shields.io/twitter/follow/nikhilsachan17?logo=twitter&style=for-the-badge" alt="nikhilsachan17" /></a> </p>
 
-- 💬 Ask me about **react JS,next JS and django**
+- 💬 Ask me about **react JS and django**
 
 - 📫 reach me at **nikhilsachan7599@gmail.com**
 
